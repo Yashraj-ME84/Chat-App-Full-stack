@@ -1,2 +1,2 @@
-# Chat-App-Full-stack
+# Workie-Talkie
 Full stack Chat application using MongoDB, ReactJS, Express and NodeJS
